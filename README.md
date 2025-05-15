@@ -14,7 +14,7 @@ Este projeto consiste na implementação de um sistema de consulta para streamin
 ## Projeto 2
 [Projeto](https://github.com/luucoelho/MC833A/tree/main/Projeto2)
 
-[Relatório](https://github.com/luucoelho/MC833A/blob/main/Projeto2/Relat%C3%B3rio.md)
+[Relatório](https://github.com/luucoelho/MC833A/blob/main/Projeto2/Relatorio2.md)
 
 Este projeto tem como objetivo analisar o tráfego de rede no Mininet e Wireshark, composta por quatro hosts e um switch, utilizando Python, Matplotlib e outros frameworks para extração e visualização de métricas.
 
